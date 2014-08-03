@@ -1,0 +1,20 @@
+{
+  "name": "wikidata-properties-dumper",
+  "version": "0.0.0",
+  "description": "requests all wikidata 'Properties' and outputs an index of those properties with a simple label in a language of choice + a list of currently missing labels in this language",
+  "main": "wikidata-properties-dumper.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wikidata"
+  ],
+  "author": "maxlath",
+  "license": "beerware",
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "q": "^1.0.1",
+    "qreq": "^0.2.0",
+    "colors": "^0.6.2"
+  }
+}
