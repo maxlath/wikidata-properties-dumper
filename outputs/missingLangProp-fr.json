@@ -2,10 +2,6 @@
     "language": "fr",
     "missing": [
         [
-            "P1262",
-            "RAÄ-nummer"
-        ],
-        [
             "P1270",
             "Norway Database for Statistics on Higher education periodical ID"
         ],
@@ -26,18 +22,6 @@
             "Norway Import Service and Registration Authority publisher code"
         ],
         [
-            "P1278",
-            "Legal Entity Identifier"
-        ],
-        [
-            "P1285",
-            "Munzinger Sport"
-        ],
-        [
-            "P1286",
-            "Munzinger Pop"
-        ],
-        [
             "P1287",
             "KDG Komponisten der Gegenwart"
         ],
@@ -54,56 +38,12 @@
             "Royal Aero Club Aviator's Certificate ID"
         ],
         [
-            "P1294",
-            "WWF ecoregion code"
-        ],
-        [
-            "P1297",
-            "IRS Employer Identification Number"
-        ],
-        [
-            "P1300",
-            "bibcode"
-        ],
-        [
             "P1306",
             "China railway station telecode"
         ],
         [
             "P1313",
             "office held by head of government"
-        ],
-        [
-            "P1320",
-            "OpenCorporates ID"
-        ],
-        [
-            "P1338",
-            "EPSG ID"
-        ],
-        [
-            "P1347",
-            "military casualty classification"
-        ],
-        [
-            "P1359",
-            "number of points/goals conceded"
-        ],
-        [
-            "P1361",
-            "Anime News Network ID"
-        ],
-        [
-            "P1364",
-            "ITTF ID"
-        ],
-        [
-            "P1368",
-            "LNB identifier"
-        ],
-        [
-            "P1370",
-            "ihsi identifier"
         ],
         [
             "P1371",
@@ -126,14 +66,6 @@
             "Japanese High School Code"
         ],
         [
-            "P1388",
-            "German regional key"
-        ],
-        [
-            "P1389",
-            "product certification"
-        ],
-        [
             "P1400",
             "FCC Facility ID"
         ],
@@ -150,28 +82,12 @@
             "script directionality"
         ],
         [
-            "P1407",
-            "MusicBrainz series ID"
-        ],
-        [
             "P1409",
             "Cycling Archives Cyclist ID"
         ],
         [
             "P1410",
             "number of seats in legislature"
-        ],
-        [
-            "P1421",
-            "GRIN URL"
-        ],
-        [
-            "P1423",
-            "infobox's main topic"
-        ],
-        [
-            "P1424",
-            "topic's main infobox"
         ]
     ]
 }
