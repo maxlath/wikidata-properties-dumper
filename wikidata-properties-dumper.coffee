@@ -37,10 +37,10 @@ module.exports = (language='en', total=1500, limit=50, offset=0)->
     json = JSON.stringify {properties: result, missing: missing}, null, 4
     if offset > 0
       fs.writeFileSync "./properties-#{language}-#{from}-#{to}.json", json
-    else fs.writeFileSync "./properties-#{language}.json", json
+    else fs.writeFileSync "./outputs/properties-#{language}.json", json
 
     jsonLang = JSON.stringify {language: language, missing: missingLang}, null, 4
-    fs.writeFileSync "./missingLangProp-#{language}.json", jsonLang
+    fs.writeFileSync "./outputs/missingLangProp-#{language}.json", jsonLang
     _.logGreen 'done!'
 
   .fail (err)->
