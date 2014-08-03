@@ -5,7 +5,6 @@ When I request wikidata entities, I always struggle with those obscure propertie
 and not a deep object I would have to 1/request 2/parse.
 It's quite likely something already exist to address this concern but I couldn't find it so here is my version :)
 
-This small tool requests all wikidata 'Properties' and outputs an index of those properties with a simple label in a given language + a list of currently missing labels in this language.
 You can find en, de, and fr versions already in the output folders.
 
 Outputs are json files as there should be a way around firing 1500 entities request to wikidata API everytime you start your program
@@ -32,5 +31,6 @@ execute the function with the code of your language of choice
 dumper 'fr'
 ```
 
-and your done! JSON files are waiting for you in the `output` folder
-
+and your done! JSON files are waiting for you in the `output` folder:
+* Properties with a label in this language, get this label
+* Properties without a label in this language, get the `'en'` label and are added to the associated MissLangProp json file: yep, that's your to-complete-list
