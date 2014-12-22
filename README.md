@@ -1,8 +1,8 @@
 wikidata-properties-dumper
 ==========================
 
-There are now more than 1600 property ids on wikidata (less active though), but no handy standard json version of those, so I made one by hand, per language.
-You can find en, de, fr, es and it versions already in the `./output` folder.
+There are now more than 1600 property ids on wikidata (less active ones though), but no handy standard json version of those, so I made one by hand, per language.
+You can find `en`, `de`, `fr`, `es` and `it` versions already in the `./output` folder.
 
 It looks like this:
 ```
