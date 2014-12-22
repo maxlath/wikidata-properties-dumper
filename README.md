@@ -5,7 +5,7 @@ There are now more than 1600 property ids on wikidata (less active ones though),
 You can find `en`, `de`, `fr`, `es` and `it` versions already in the `./output` folder.
 
 It looks like this:
-```
+```javascript
 {
     "properties": {
         "P6": "head of government",
@@ -23,13 +23,16 @@ It looks like this:
 
 How To dump Properties for other languages
 -------
-```
+```bash
 git clone git@github.com:maxlath/wikidata-properties-dumper.git
 npm install
 ```
 
-then just execute the script with the wished 2 letter language code as first argument:
-`./wikidata-properties-dumper.js fr`
+then just execute the script with the wished 2 letter language code as first argument (e.g. here `fr` for French):
+
+```bash
+./wikidata-properties-dumper.js fr
+```
 
 and you're done! JSON files are waiting for you in the `output` folder:
 * Properties with a label in this language, get this label
