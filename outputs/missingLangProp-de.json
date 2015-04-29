@@ -46,10 +46,6 @@
             "mushroom ecological type"
         ],
         [
-            "P797",
-            "executive authority"
-        ],
-        [
             "P831",
             "parent club"
         ],
@@ -66,28 +62,12 @@
             "Operational Requirement of the UK Air Ministry"
         ],
         [
-            "P868",
-            "foods traditionally associated"
-        ],
-        [
             "P875",
             "UN code classification"
         ],
         [
             "P897",
             "United States Army and Air Force aircraft designation"
-        ],
-        [
-            "P925",
-            "presynaptic connection"
-        ],
-        [
-            "P926",
-            "postsynaptic connection"
-        ],
-        [
-            "P988",
-            "Philippine Standard Geographic Code"
         ],
         [
             "P1007",
@@ -100,10 +80,6 @@
         [
             "P1023",
             "SBC-2010 occupation code"
-        ],
-        [
-            "P1069",
-            "Danemark Job Code (DISCO-08)"
         ],
         [
             "P1079",
@@ -158,30 +134,6 @@
             "shown with features"
         ],
         [
-            "P1369",
-            "Iranian National Heritage registration number"
-        ],
-        [
-            "P1370",
-            "ihsi identifier"
-        ],
-        [
-            "P1377",
-            "MTR station code"
-        ],
-        [
-            "P1390",
-            "match time of score (minutes)"
-        ],
-        [
-            "P1396",
-            "Linguasphere code"
-        ],
-        [
-            "P1408",
-            "licensed to broadcast to"
-        ],
-        [
             "P1418",
             "orbits completed"
         ],
@@ -198,20 +150,8 @@
             "reporting mark"
         ],
         [
-            "P1529",
-            "Glad identifier"
-        ],
-        [
             "P1537",
             "contributing factor of"
-        ],
-        [
-            "P1539",
-            "female population"
-        ],
-        [
-            "P1540",
-            "male population"
         ],
         [
             "P1544",
@@ -234,36 +174,12 @@
             "Enciclopedia de la Literatura en México ID"
         ],
         [
-            "P1568",
-            "domain"
-        ],
-        [
-            "P1578",
-            "Gmelin Number"
-        ],
-        [
-            "P1582",
-            "natural product of taxon"
-        ],
-        [
-            "P1583",
-            "MalaCards ID"
-        ],
-        [
-            "P1597",
-            "Slovene Cultural Heritage designation"
-        ],
-        [
             "P1605",
             "has natural reservoir"
         ],
         [
             "P1606",
             "natural reservoir of"
-        ],
-        [
-            "P1637",
-            "undercarriage"
         ],
         [
             "P1642",
@@ -274,18 +190,6 @@
             "departure transaction"
         ],
         [
-            "P1644",
-            "EgliseInfo ID"
-        ],
-        [
-            "P1645",
-            "NIST/CODATA ID"
-        ],
-        [
-            "P1647",
-            "subproperty of"
-        ],
-        [
             "P1648",
             "Dictionary of Welsh Biography ID"
         ],
@@ -294,24 +198,268 @@
             "Korean Movie Database ID"
         ],
         [
-            "P1653",
-            "TERYT municipality code"
+            "P1660",
+            "has index case"
         ],
         [
-            "P1654",
-            "wing configuration"
+            "P1678",
+            "has vertex figure"
         ],
         [
-            "P1655",
-            "station number"
+            "P1688",
+            "AniDB identifier"
         ],
         [
-            "P1656",
-            "unveiled by"
+            "P1690",
+            "ICD-10-PCS"
         ],
         [
-            "P1657",
-            "MPAA film rating"
+            "P1691",
+            "operations and procedures key (OPS)"
+        ],
+        [
+            "P1692",
+            "ICD-9-CM"
+        ],
+        [
+            "P1699",
+            "SkyscraperPage building id"
+        ],
+        [
+            "P1707",
+            "DAAO identifier"
+        ],
+        [
+            "P1736",
+            "Information Center for Israeli Art artist identifier"
+        ],
+        [
+            "P1739",
+            "CiNii book identifer"
+        ],
+        [
+            "P1743",
+            "Bradley and Fletcher checklist number"
+        ],
+        [
+            "P1744",
+            "Agassiz et al checklist number"
+        ],
+        [
+            "P1749",
+            "Parlement & Politiek ID"
+        ],
+        [
+            "P1751",
+            "BBC Your Paintings collection identifier"
+        ],
+        [
+            "P1760",
+            "Aviation Safety Network Wikibase Occurrence"
+        ],
+        [
+            "P1761",
+            "Watson & Dallwitz family ID"
+        ],
+        [
+            "P1762",
+            "Hornbostel-Sachs classification"
+        ],
+        [
+            "P1763",
+            "National Pipe Organ Register identifier"
+        ],
+        [
+            "P1764",
+            "Flemish organization for Immovable Heritage relict ID"
+        ],
+        [
+            "P1770",
+            "Romania LMI code"
+        ],
+        [
+            "P1771",
+            "Integrated Postsecondary Education Data System identifier"
+        ],
+        [
+            "P1775",
+            "follower of"
+        ],
+        [
+            "P1776",
+            "circle of"
+        ],
+        [
+            "P1777",
+            "manner of"
+        ],
+        [
+            "P1778",
+            "forgery after"
+        ],
+        [
+            "P1780",
+            "school of"
+        ],
+        [
+            "P1787",
+            "art-name"
+        ],
+        [
+            "P1794",
+            "bureau du patrimoine de Seine-Saint-Denis ID"
+        ],
+        [
+            "P1796",
+            "International Standard Industrial Classification code"
+        ],
+        [
+            "P1799",
+            "Maltese Islands National Inventory of Cultural Property identifier"
+        ],
+        [
+            "P1804",
+            "Danish National Filmography ID"
+        ],
+        [
+            "P1807",
+            "Great Aragonese Encyclopedia ID"
+        ],
+        [
+            "P1818",
+            "Kaiserhof ID"
+        ],
+        [
+            "P1819",
+            "genealogics.org personID"
+        ],
+        [
+            "P1821",
+            "Open Food Facts food category slug"
+        ],
+        [
+            "P1831",
+            "electorate"
+        ],
+        [
+            "P1836",
+            "draft pick number"
+        ],
+        [
+            "P1837",
+            "Gaoloumi ID"
+        ],
+        [
+            "P1838",
+            "PSS-archi ID"
+        ],
+        [
+            "P1839",
+            "US Federal Election Commission identifier"
+        ],
+        [
+            "P1840",
+            "investigated by"
+        ],
+        [
+            "P1841",
+            "Swedish district code"
+        ],
+        [
+            "P1845",
+            "anti-virus alias"
+        ],
+        [
+            "P1846",
+            "distribution map"
+        ],
+        [
+            "P1847",
+            "Nasjonalbiblioteket photographer ID"
+        ],
+        [
+            "P1848",
+            "INPN Code"
+        ],
+        [
+            "P1849",
+            "SSR WrittenForm ID"
+        ],
+        [
+            "P1850",
+            "SSR Name ID"
+        ],
+        [
+            "P1851",
+            "input set"
+        ],
+        [
+            "P1852",
+            "Perry Index"
+        ],
+        [
+            "P1854",
+            "Kiev street code"
+        ],
+        [
+            "P1855",
+            "Wikidata property example"
+        ],
+        [
+            "P1856",
+            "Wikidata example media file"
+        ],
+        [
+            "P1858",
+            "Wikidata example string"
+        ],
+        [
+            "P1859",
+            "Wikidata example item value"
+        ],
+        [
+            "P1860",
+            "Wikidata example URL"
+        ],
+        [
+            "P1861",
+            "Wikidata example time"
+        ],
+        [
+            "P1862",
+            "Wikidata example quantity"
+        ],
+        [
+            "P1863",
+            "Wikidata example property"
+        ],
+        [
+            "P1864",
+            "Wikidata example monolingual text"
+        ],
+        [
+            "P1865",
+            "Wikidata example geographic coordinates"
+        ],
+        [
+            "P1866",
+            "catholic-hierarchy diocese ID"
+        ],
+        [
+            "P1867",
+            "eligible voters"
+        ],
+        [
+            "P1868",
+            "ballots cast"
+        ],
+        [
+            "P1869",
+            "Hall of Valor ID"
+        ],
+        [
+            "P1870",
+            "Name Assigning Authority Number"
         ]
     ]
 }

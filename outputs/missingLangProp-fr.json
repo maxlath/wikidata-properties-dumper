@@ -102,10 +102,6 @@
             "UBERON ID"
         ],
         [
-            "P1573",
-            "BBC Genome identifier"
-        ],
-        [
             "P1575",
             "RISS catalog"
         ],
@@ -132,10 +128,6 @@
         [
             "P1586",
             "Catalan object of cultural interest ID"
-        ],
-        [
-            "P1587",
-            "Slovene Cultural Heritage Register ID"
         ],
         [
             "P1588",
@@ -186,20 +178,8 @@
             "Dialnet article"
         ],
         [
-            "P1614",
-            "History of Parliament ID"
-        ],
-        [
             "P1617",
             "BBC Things identifer"
-        ],
-        [
-            "P1618",
-            "squad number"
-        ],
-        [
-            "P1626",
-            "Thai cultural heritage ID"
         ],
         [
             "P1642",
@@ -232,6 +212,330 @@
         [
             "P1657",
             "MPAA film rating"
+        ],
+        [
+            "P1660",
+            "has index case"
+        ],
+        [
+            "P1661",
+            "Alexa rank"
+        ],
+        [
+            "P1662",
+            "DOI Prefix"
+        ],
+        [
+            "P1663",
+            "ProCyclingStats ID"
+        ],
+        [
+            "P1664",
+            "Cycling Database ID"
+        ],
+        [
+            "P1665",
+            "Chess Games ID"
+        ],
+        [
+            "P1666",
+            "Chess Club ID"
+        ],
+        [
+            "P1668",
+            "ATCvet"
+        ],
+        [
+            "P1669",
+            "CONA  identifier"
+        ],
+        [
+            "P1672",
+            "this taxon is source of"
+        ],
+        [
+            "P1673",
+            "general formula"
+        ],
+        [
+            "P1674",
+            "number confirmed"
+        ],
+        [
+            "P1675",
+            "number probable"
+        ],
+        [
+            "P1676",
+            "number suspected"
+        ],
+        [
+            "P1677",
+            "index case of"
+        ],
+        [
+            "P1678",
+            "has vertex figure"
+        ],
+        [
+            "P1679",
+            "BBC Your Paintings artwork identifier"
+        ],
+        [
+            "P1688",
+            "AniDB identifier"
+        ],
+        [
+            "P1690",
+            "ICD-10-PCS"
+        ],
+        [
+            "P1691",
+            "operations and procedures key (OPS)"
+        ],
+        [
+            "P1692",
+            "ICD-9-CM"
+        ],
+        [
+            "P1693",
+            "Terminologia Embryologica (TE)"
+        ],
+        [
+            "P1694",
+            "Terminologia Histologica (TH)"
+        ],
+        [
+            "P1698",
+            "Gray's Anatomy 1918 subject"
+        ],
+        [
+            "P1703",
+            "pollination"
+        ],
+        [
+            "P1704",
+            "pollenizer"
+        ],
+        [
+            "P1710",
+            "Sächsische Biografie"
+        ],
+        [
+            "P1728",
+            "AllMusic artist ID"
+        ],
+        [
+            "P1729",
+            "AllMusic album ID"
+        ],
+        [
+            "P1730",
+            "AllMusic song ID"
+        ],
+        [
+            "P1731",
+            "Fach"
+        ],
+        [
+            "P1732",
+            "Naturbase ID"
+        ],
+        [
+            "P1734",
+            "oath of office date"
+        ],
+        [
+            "P1735",
+            "Comedien.ch identifier"
+        ],
+        [
+            "P1736",
+            "Information Center for Israeli Art artist identifier"
+        ],
+        [
+            "P1751",
+            "BBC Your Paintings collection identifier"
+        ],
+        [
+            "P1752",
+            "scale"
+        ],
+        [
+            "P1760",
+            "Aviation Safety Network Wikibase Occurrence"
+        ],
+        [
+            "P1763",
+            "National Pipe Organ Register identifier"
+        ],
+        [
+            "P1769",
+            "denkXweb identifier"
+        ],
+        [
+            "P1771",
+            "Integrated Postsecondary Education Data System identifier"
+        ],
+        [
+            "P1773",
+            "attributed to"
+        ],
+        [
+            "P1775",
+            "follower of"
+        ],
+        [
+            "P1776",
+            "circle of"
+        ],
+        [
+            "P1777",
+            "manner of"
+        ],
+        [
+            "P1778",
+            "forgery after"
+        ],
+        [
+            "P1780",
+            "school of"
+        ],
+        [
+            "P1788",
+            "DVN identifier"
+        ],
+        [
+            "P1789",
+            "chief operating officer"
+        ],
+        [
+            "P1790",
+            "BioStor author identifier"
+        ],
+        [
+            "P1795",
+            "Smithsonian American Art Museum: person/institution thesaurus id"
+        ],
+        [
+            "P1796",
+            "International Standard Industrial Classification code"
+        ],
+        [
+            "P1799",
+            "Maltese Islands National Inventory of Cultural Property identifier"
+        ],
+        [
+            "P1806",
+            "ABoK number"
+        ],
+        [
+            "P1825",
+            "Baseball-Reference.com major league player ID"
+        ],
+        [
+            "P1826",
+            "Baseball-Reference.com minor league player ID"
+        ],
+        [
+            "P1836",
+            "draft pick number"
+        ],
+        [
+            "P1839",
+            "US Federal Election Commission identifier"
+        ],
+        [
+            "P1841",
+            "Swedish district code"
+        ],
+        [
+            "P1842",
+            "Global Anabaptist Mennonite Encyclopedia Online identifier"
+        ],
+        [
+            "P1844",
+            "HathiTrust id"
+        ],
+        [
+            "P1845",
+            "anti-virus alias"
+        ],
+        [
+            "P1846",
+            "distribution map"
+        ],
+        [
+            "P1847",
+            "Nasjonalbiblioteket photographer ID"
+        ],
+        [
+            "P1849",
+            "SSR WrittenForm ID"
+        ],
+        [
+            "P1850",
+            "SSR Name ID"
+        ],
+        [
+            "P1852",
+            "Perry Index"
+        ],
+        [
+            "P1853",
+            "blood type"
+        ],
+        [
+            "P1854",
+            "Kiev street code"
+        ],
+        [
+            "P1856",
+            "Wikidata example media file"
+        ],
+        [
+            "P1858",
+            "Wikidata example string"
+        ],
+        [
+            "P1860",
+            "Wikidata example URL"
+        ],
+        [
+            "P1861",
+            "Wikidata example time"
+        ],
+        [
+            "P1862",
+            "Wikidata example quantity"
+        ],
+        [
+            "P1863",
+            "Wikidata example property"
+        ],
+        [
+            "P1864",
+            "Wikidata example monolingual text"
+        ],
+        [
+            "P1865",
+            "Wikidata example geographic coordinates"
+        ],
+        [
+            "P1867",
+            "eligible voters"
+        ],
+        [
+            "P1868",
+            "ballots cast"
+        ],
+        [
+            "P1869",
+            "Hall of Valor ID"
+        ],
+        [
+            "P1870",
+            "Name Assigning Authority Number"
         ]
     ]
 }
