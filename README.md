@@ -75,5 +75,5 @@ and you're done! JSON files are waiting for you in the `output` folder:
 
 Future
 -------
-To get this list of properties, the script makes number_of_properties/50 requests to Wikidata API, which is kind of ugly: there should be a better one-(SQL?)query way to get this result. See [the related discussion on Wikidata](http://www.wikidata.org/wiki/Wikidata:Project_chat/Archive/2014/12#wikidata_properties_listed_in_a_JSON_file_as_key-values) for inspiration and send your PR if you can figure that out! :)
+To get this list of properties, the script makes `number_of_properties / 50` requests to Wikidata API, which is kind of ugly: there should be a better one-(SQL?)query way to get this result. See [the related discussion on Wikidata](http://www.wikidata.org/wiki/Wikidata:Project_chat/Archive/2014/12#wikidata_properties_listed_in_a_JSON_file_as_key-values) for inspiration and send your PR if you can figure that out! :)
 
