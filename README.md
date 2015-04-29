@@ -21,6 +21,40 @@ It looks like this:
         ...
 ```
 
+Dumps
+-------
+
+Properties:
+[ar](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-ar.json) -
+[da](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-da.json) -
+[de](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-de.json) -
+[en](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-en.json) -
+[es](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-es.json) -
+[fr](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-fr.json) -
+[it](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-it.json) -
+[ja](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-ja.json) -
+[nl](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-nl.json) -
+[pt](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-pt.json) -
+[ru](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-ru.json) -
+[se](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-se.json) -
+[zh](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/properties-zh.json)
+
+
+Missing properties:
+[ar](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-ar.json) -
+[da](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-da.json) -
+[de](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-de.json) -
+[en](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-en.json) -
+[es](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-es.json) -
+[fr](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-fr.json) -
+[it](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-it.json) -
+[ja](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-ja.json) -
+[nl](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-nl.json) -
+[pt](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-pt.json) -
+[ru](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-ru.json) -
+[se](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-se.json) -
+[zh](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/outputs/missingLangProp-zh.json)
+
 How To dump Properties for other languages
 -------
 ```bash
