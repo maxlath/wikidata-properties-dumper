@@ -1,0 +1,113 @@
+{
+    "language": "nl",
+    "missing": [
+        [
+            "P1836",
+            "draft pick number"
+        ],
+        [
+            "P1844",
+            "HathiTrust id"
+        ],
+        [
+            "P1845",
+            "anti-virus alias"
+        ],
+        [
+            "P1846",
+            "distribution map"
+        ],
+        [
+            "P1847",
+            "Nasjonalbiblioteket photographer ID"
+        ],
+        [
+            "P1848",
+            "INPN Code"
+        ],
+        [
+            "P1849",
+            "SSR WrittenForm ID"
+        ],
+        [
+            "P1850",
+            "SSR Name ID"
+        ],
+        [
+            "P1851",
+            "input set"
+        ],
+        [
+            "P1852",
+            "Perry Index"
+        ],
+        [
+            "P1853",
+            "blood type"
+        ],
+        [
+            "P1854",
+            "Kiev street code"
+        ],
+        [
+            "P1855",
+            "Wikidata property example"
+        ],
+        [
+            "P1856",
+            "Wikidata example media file"
+        ],
+        [
+            "P1858",
+            "Wikidata example string"
+        ],
+        [
+            "P1859",
+            "Wikidata example item value"
+        ],
+        [
+            "P1860",
+            "Wikidata example URL"
+        ],
+        [
+            "P1861",
+            "Wikidata example time"
+        ],
+        [
+            "P1862",
+            "Wikidata example quantity"
+        ],
+        [
+            "P1863",
+            "Wikidata example property"
+        ],
+        [
+            "P1864",
+            "Wikidata example monolingual text"
+        ],
+        [
+            "P1865",
+            "Wikidata example geographic coordinates"
+        ],
+        [
+            "P1866",
+            "catholic-hierarchy diocese ID"
+        ],
+        [
+            "P1867",
+            "eligible voters"
+        ],
+        [
+            "P1868",
+            "ballots cast"
+        ],
+        [
+            "P1869",
+            "Hall of Valor ID"
+        ],
+        [
+            "P1870",
+            "Name Assigning Authority Number"
+        ]
+    ]
+}
