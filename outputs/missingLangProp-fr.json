@@ -2,106 +2,6 @@
     "language": "fr",
     "missing": [
         [
-            "P1010",
-            "Iran statistics ID"
-        ],
-        [
-            "P1270",
-            "Norway Database for Statistics on Higher education periodical ID"
-        ],
-        [
-            "P1271",
-            "Norway Database for Statistics on Higher education publisher ID"
-        ],
-        [
-            "P1272",
-            "Norway Import Service and Registration Authority periodical code"
-        ],
-        [
-            "P1274",
-            "ISFDB title ID"
-        ],
-        [
-            "P1275",
-            "Norway Import Service and Registration Authority publisher code"
-        ],
-        [
-            "P1287",
-            "KDG Komponisten der Gegenwart"
-        ],
-        [
-            "P1288",
-            "KLG Kritisches Lexikon der Gegenwartsliteratur"
-        ],
-        [
-            "P1289",
-            "KLfG Kritisches Lexikon der fremdsprachigen Gegenwartsliteratur"
-        ],
-        [
-            "P1293",
-            "Royal Aero Club Aviator's Certificate ID"
-        ],
-        [
-            "P1378",
-            "China railway TMIS station code"
-        ],
-        [
-            "P1386",
-            "Japanese High School Code"
-        ],
-        [
-            "P1400",
-            "FCC Facility ID"
-        ],
-        [
-            "P1466",
-            "WALS lect code"
-        ],
-        [
-            "P1467",
-            "WALS genus code"
-        ],
-        [
-            "P1470",
-            "maximum glide ratio "
-        ],
-        [
-            "P1471",
-            "reporting mark"
-        ],
-        [
-            "P1473",
-            "Nupill Literatura Digital - Author"
-        ],
-        [
-            "P1474",
-            "Nupill Literatura Digital - Document"
-        ],
-        [
-            "P1536",
-            "immediate cause of"
-        ],
-        [
-            "P1537",
-            "contributing factor of"
-        ],
-        [
-            "P1544",
-            "Federal Register Document Number"
-        ],
-        [
-            "P1550",
-            "Orphanet ID"
-        ],
-        [
-            "P1553",
-            "Yandex.Music ID"
-        ],
-        [
-            "P1554",
-            "UBERON ID"
-        ],
-        [
             "P1575",
             "RISS catalog"
         ],
@@ -122,20 +22,12 @@
             "MalaCards ID"
         ],
         [
-            "P1585",
-            "Municipality code of Brazil"
-        ],
-        [
             "P1586",
             "Catalan object of cultural interest ID"
         ],
         [
             "P1588",
             "Desa code of Indonesia"
-        ],
-        [
-            "P1597",
-            "Slovene Cultural Heritage designation"
         ],
         [
             "P1599",
@@ -146,24 +38,8 @@
             "BBC Your Paintings venue identifier"
         ],
         [
-            "P1603",
-            "number of cases"
-        ],
-        [
-            "P1604",
-            "biosafety level"
-        ],
-        [
-            "P1605",
-            "has natural reservoir"
-        ],
-        [
-            "P1606",
-            "natural reservoir of"
-        ],
-        [
             "P1607",
-            "Dialnet author"
+            "Dialnet author ID"
         ],
         [
             "P1608",
@@ -202,10 +78,6 @@
             "BBF identifier"
         ],
         [
-            "P1651",
-            "YouTube video identifier"
-        ],
-        [
             "P1653",
             "TERYT municipality code"
         ],
@@ -218,20 +90,8 @@
             "has index case"
         ],
         [
-            "P1661",
-            "Alexa rank"
-        ],
-        [
             "P1662",
             "DOI Prefix"
-        ],
-        [
-            "P1663",
-            "ProCyclingStats ID"
-        ],
-        [
-            "P1664",
-            "Cycling Database ID"
         ],
         [
             "P1665",
@@ -248,10 +108,6 @@
         [
             "P1669",
             "CONA  identifier"
-        ],
-        [
-            "P1672",
-            "this taxon is source of"
         ],
         [
             "P1673",
@@ -306,24 +162,8 @@
             "Terminologia Histologica (TH)"
         ],
         [
-            "P1698",
-            "Gray's Anatomy 1918 subject"
-        ],
-        [
-            "P1703",
-            "pollination"
-        ],
-        [
-            "P1704",
-            "pollenizer"
-        ],
-        [
             "P1710",
             "Sächsische Biografie"
-        ],
-        [
-            "P1728",
-            "AllMusic artist ID"
         ],
         [
             "P1729",
@@ -358,18 +198,6 @@
             "BBC Your Paintings collection identifier"
         ],
         [
-            "P1752",
-            "scale"
-        ],
-        [
-            "P1760",
-            "Aviation Safety Network Wikibase Occurrence"
-        ],
-        [
-            "P1763",
-            "National Pipe Organ Register identifier"
-        ],
-        [
             "P1769",
             "denkXweb identifier"
         ],
@@ -378,28 +206,8 @@
             "Integrated Postsecondary Education Data System identifier"
         ],
         [
-            "P1773",
-            "attributed to"
-        ],
-        [
-            "P1775",
-            "follower of"
-        ],
-        [
-            "P1776",
-            "circle of"
-        ],
-        [
-            "P1777",
-            "manner of"
-        ],
-        [
             "P1778",
             "forgery after"
-        ],
-        [
-            "P1780",
-            "school of"
         ],
         [
             "P1788",
@@ -414,20 +222,12 @@
             "BioStor author identifier"
         ],
         [
-            "P1795",
-            "Smithsonian American Art Museum: person/institution thesaurus id"
-        ],
-        [
             "P1796",
             "International Standard Industrial Classification code"
         ],
         [
             "P1799",
             "Maltese Islands National Inventory of Cultural Property identifier"
-        ],
-        [
-            "P1806",
-            "ABoK number"
         ],
         [
             "P1825",
@@ -462,14 +262,6 @@
             "anti-virus alias"
         ],
         [
-            "P1846",
-            "distribution map"
-        ],
-        [
-            "P1847",
-            "Nasjonalbiblioteket photographer ID"
-        ],
-        [
             "P1849",
             "SSR WrittenForm ID"
         ],
@@ -482,24 +274,12 @@
             "Perry Index"
         ],
         [
-            "P1853",
-            "blood type"
-        ],
-        [
             "P1854",
             "Kiev street code"
         ],
         [
             "P1856",
             "Wikidata example media file"
-        ],
-        [
-            "P1858",
-            "Wikidata example string"
-        ],
-        [
-            "P1860",
-            "Wikidata example URL"
         ],
         [
             "P1861",
@@ -518,24 +298,152 @@
             "Wikidata example monolingual text"
         ],
         [
-            "P1865",
-            "Wikidata example geographic coordinates"
-        ],
-        [
-            "P1867",
-            "eligible voters"
-        ],
-        [
-            "P1868",
-            "ballots cast"
-        ],
-        [
             "P1869",
             "Hall of Valor ID"
         ],
         [
             "P1870",
             "Name Assigning Authority Number"
+        ],
+        [
+            "P1878",
+            "Vox-ATypI classification"
+        ],
+        [
+            "P1879",
+            "income classification (Philippines)"
+        ],
+        [
+            "P1882",
+            "Web Gallery of Art identifier"
+        ],
+        [
+            "P1883",
+            "Declarator.org ID"
+        ],
+        [
+            "P1887",
+            "vice-county"
+        ],
+        [
+            "P1888",
+            "Dictionary of Medieval Names from European Sources entry"
+        ],
+        [
+            "P1894",
+            "Danish urban area code"
+        ],
+        [
+            "P1901",
+            "BALaT person/organisation id"
+        ],
+        [
+            "P1905",
+            "FundRef registry name"
+        ],
+        [
+            "P1908",
+            "Commonwealth War Graves Commission person identifier"
+        ],
+        [
+            "P1910",
+            "decreased expression in"
+        ],
+        [
+            "P1911",
+            "increased expression in"
+        ],
+        [
+            "P1912",
+            "deletion association with"
+        ],
+        [
+            "P1913",
+            "gene duplication association with"
+        ],
+        [
+            "P1914",
+            "gene insertion association with"
+        ],
+        [
+            "P1915",
+            "gene inversion association with"
+        ],
+        [
+            "P1916",
+            "gene substitution association with"
+        ],
+        [
+            "P1917",
+            "posttranslational modification association with"
+        ],
+        [
+            "P1920",
+            "Commonwealth War Graves Commission burial ground identifier"
+        ],
+        [
+            "P1921",
+            "URI pattern for RDF resource"
+        ],
+        [
+            "P1928",
+            "Vaccine Ontology ID"
+        ],
+        [
+            "P1929",
+            "Clinvar Accession Number"
+        ],
+        [
+            "P1932",
+            "stated as"
+        ],
+        [
+            "P1943",
+            "location map"
+        ],
+        [
+            "P1944",
+            "relief location map"
+        ],
+        [
+            "P1947",
+            "Mapillary ID"
+        ],
+        [
+            "P1948",
+            "BerlPap identifier"
+        ],
+        [
+            "P1951",
+            "investor"
+        ],
+        [
+            "P1952",
+            "Encyclopaedia Metallum band ID"
+        ],
+        [
+            "P1956",
+            "takeoff and landing capability"
+        ],
+        [
+            "P1973",
+            "RSL editions"
+        ],
+        [
+            "P1976",
+            "INEGI locality identifier"
+        ],
+        [
+            "P1981",
+            "FSK film rating"
+        ],
+        [
+            "P2009",
+            "Exif model"
+        ],
+        [
+            "P2010",
+            "Exif make"
         ]
     ]
 }

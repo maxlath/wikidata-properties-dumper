@@ -15,11 +15,11 @@
         ],
         [
             "P778",
-            "Swedish code for parishes in the Church"
+            "Church of Sweden parish code"
         ],
         [
             "P779",
-            "Swedish Pastoratskod"
+            "Church of Sweden Pastoratskod"
         ],
         [
             "P784",
@@ -67,7 +67,7 @@
         ],
         [
             "P1124",
-            "teu"
+            "TEU"
         ],
         [
             "P1126",
@@ -111,7 +111,7 @@
         ],
         [
             "P1216",
-            "English Heritage list number"
+            "National Heritage List for England number"
         ],
         [
             "P1231",
@@ -231,7 +231,7 @@
         ],
         [
             "P1286",
-            "Munzinger Pop"
+            "Munzinger Pop identifier"
         ],
         [
             "P1287",
@@ -306,16 +306,8 @@
             "ploidy"
         ],
         [
-            "P1354",
-            "shown with features"
-        ],
-        [
             "P1360",
             "Monte Carlo Particle Number"
-        ],
-        [
-            "P1361",
-            "Anime News Network ID"
         ],
         [
             "P1364",
@@ -331,7 +323,7 @@
         ],
         [
             "P1370",
-            "ihsi identifier"
+            "IHSI ID"
         ],
         [
             "P1371",
@@ -406,10 +398,6 @@
             "SFDb ID"
         ],
         [
-            "P1423",
-            "template's main topic"
-        ],
-        [
             "P1425",
             "ecoregion (WWF)"
         ],
@@ -426,16 +414,8 @@
             "Fide ID"
         ],
         [
-            "P1443",
-            "score method"
-        ],
-        [
             "P1453",
             "catholic.ru identifier"
-        ],
-        [
-            "P1458",
-            "color index"
         ],
         [
             "P1459",
@@ -466,12 +446,8 @@
             "WALS family code"
         ],
         [
-            "P1469",
-            "FIFA player code"
-        ],
-        [
             "P1470",
-            "maximum glide ratio "
+            "maximum glide ratio"
         ],
         [
             "P1473",
@@ -487,7 +463,7 @@
         ],
         [
             "P1483",
-            "kulturnoe-nasledie.ru identifier"
+            "kulturnoe-nasledie.ru ID"
         ],
         [
             "P1529",
@@ -527,7 +503,7 @@
         ],
         [
             "P1556",
-            "zbMATH author ID"
+            "author ID"
         ],
         [
             "P1563",
@@ -582,10 +558,6 @@
             "Desa code of Indonesia"
         ],
         [
-            "P1597",
-            "Slovene Cultural Heritage designation"
-        ],
-        [
             "P1599",
             "Cambridge Alumni Database ID"
         ],
@@ -636,14 +608,6 @@
         [
             "P1632",
             "Hermann–Mauguin notation"
-        ],
-        [
-            "P1642",
-            "acquisition transaction"
-        ],
-        [
-            "P1643",
-            "departure transaction"
         ],
         [
             "P1648",
@@ -714,10 +678,6 @@
             "route number"
         ],
         [
-            "P1672",
-            "this taxon is source of"
-        ],
-        [
             "P1677",
             "index case of"
         ],
@@ -754,10 +714,6 @@
             "NLP identifier"
         ],
         [
-            "P1698",
-            "Gray's Anatomy 1918 subject"
-        ],
-        [
             "P1699",
             "SkyscraperPage building id"
         ],
@@ -774,24 +730,12 @@
             "pollination"
         ],
         [
-            "P1707",
-            "DAAO identifier"
-        ],
-        [
             "P1708",
             "LfDS object ID"
         ],
         [
             "P1710",
             "Sächsische Biografie"
-        ],
-        [
-            "P1711",
-            "British Museum person-institution"
-        ],
-        [
-            "P1713",
-            "biography at the Bundestag of Germany"
         ],
         [
             "P1714",
@@ -812,10 +756,6 @@
         [
             "P1726",
             "Florentine musea Inventario 1890  ID"
-        ],
-        [
-            "P1727",
-            "Flora of North America ID"
         ],
         [
             "P1731",
@@ -862,10 +802,6 @@
             "ZooBank nomenclatural act"
         ],
         [
-            "P1747",
-            "Flora of China"
-        ],
-        [
             "P1748",
             "NCI Thesaurus ID"
         ],
@@ -876,10 +812,6 @@
         [
             "P1751",
             "BBC Your Paintings collection identifier"
-        ],
-        [
-            "P1755",
-            "Aviation Safety Network accident description ID"
         ],
         [
             "P1760",
@@ -918,22 +850,6 @@
             "Integrated Postsecondary Education Data System identifier"
         ],
         [
-            "P1772",
-            "USDA PLANTS ID"
-        ],
-        [
-            "P1774",
-            "workshop of"
-        ],
-        [
-            "P1778",
-            "forgery after"
-        ],
-        [
-            "P1787",
-            "art-name"
-        ],
-        [
             "P1788",
             "DVN identifier"
         ],
@@ -955,7 +871,7 @@
         ],
         [
             "P1798",
-            "ISO 639-5"
+            "ISO 639-5 code"
         ],
         [
             "P1799",
@@ -983,15 +899,11 @@
         ],
         [
             "P1815",
-            "RSL book's identifier"
+            "RSL scanned book's identifier"
         ],
         [
             "P1818",
-            "Kaiserhof ID"
-        ],
-        [
-            "P1819",
-            "genealogics.org personID"
+            "KH"
         ],
         [
             "P1820",
@@ -1026,16 +938,8 @@
             "Roud Folk Song Index"
         ],
         [
-            "P1831",
-            "electorate"
-        ],
-        [
             "P1832",
             "GrassBase ID"
-        ],
-        [
-            "P1833",
-            "number of registered users/contributors"
         ],
         [
             "P1836",
@@ -1098,16 +1002,8 @@
             "Kiev street code"
         ],
         [
-            "P1855",
-            "Wikidata property example"
-        ],
-        [
             "P1856",
             "Wikidata example media file"
-        ],
-        [
-            "P1858",
-            "Wikidata example string"
         ],
         [
             "P1859",
@@ -1138,24 +1034,408 @@
             "Wikidata example geographic coordinates"
         ],
         [
-            "P1866",
-            "catholic-hierarchy diocese ID"
-        ],
-        [
-            "P1867",
-            "eligible voters"
-        ],
-        [
-            "P1868",
-            "ballots cast"
-        ],
-        [
             "P1869",
             "Hall of Valor ID"
         ],
         [
             "P1870",
             "Name Assigning Authority Number"
+        ],
+        [
+            "P1871",
+            "CERL ID"
+        ],
+        [
+            "P1878",
+            "Vox-ATypI classification"
+        ],
+        [
+            "P1879",
+            "income classification (Philippines)"
+        ],
+        [
+            "P1883",
+            "Declarator.org ID"
+        ],
+        [
+            "P1886",
+            "Smithsonian volcano identifier"
+        ],
+        [
+            "P1888",
+            "Dictionary of Medieval Names from European Sources entry"
+        ],
+        [
+            "P1893",
+            "OpenPlaques plaque identifier"
+        ],
+        [
+            "P1894",
+            "Danish urban area code"
+        ],
+        [
+            "P1895",
+            "Fauna Europaea ID"
+        ],
+        [
+            "P1899",
+            "Librivox author ID"
+        ],
+        [
+            "P1901",
+            "BALaT person/organisation id"
+        ],
+        [
+            "P1902",
+            "Spotify artist ID"
+        ],
+        [
+            "P1903",
+            "Volcanic explosivity index"
+        ],
+        [
+            "P1905",
+            "FundRef registry name"
+        ],
+        [
+            "P1907",
+            "Australian Dictionary of Biography identifier"
+        ],
+        [
+            "P1908",
+            "Commonwealth War Graves Commission person identifier"
+        ],
+        [
+            "P1910",
+            "decreased expression in"
+        ],
+        [
+            "P1911",
+            "increased expression in"
+        ],
+        [
+            "P1912",
+            "deletion association with"
+        ],
+        [
+            "P1913",
+            "gene duplication association with"
+        ],
+        [
+            "P1914",
+            "gene insertion association with"
+        ],
+        [
+            "P1915",
+            "gene inversion association with"
+        ],
+        [
+            "P1916",
+            "gene substitution association with"
+        ],
+        [
+            "P1917",
+            "posttranslational modification association with"
+        ],
+        [
+            "P1918",
+            "altered regulation leads to"
+        ],
+        [
+            "P1920",
+            "Commonwealth War Graves Commission burial ground identifier"
+        ],
+        [
+            "P1921",
+            "URI pattern for RDF resource"
+        ],
+        [
+            "P1925",
+            "VIOLIN ID"
+        ],
+        [
+            "P1928",
+            "Vaccine Ontology ID"
+        ],
+        [
+            "P1929",
+            "Clinvar Accession Number"
+        ],
+        [
+            "P1930",
+            "DSM V"
+        ],
+        [
+            "P1931",
+            "PGCH ID"
+        ],
+        [
+            "P1933",
+            "MobyGames ID"
+        ],
+        [
+            "P1934",
+            "Animator.ru work ID"
+        ],
+        [
+            "P1935",
+            "DBCS ID"
+        ],
+        [
+            "P1937",
+            "UN/LOCODE"
+        ],
+        [
+            "P1939",
+            "Dyntaxa ID"
+        ],
+        [
+            "P1940",
+            "conifers.org ID"
+        ],
+        [
+            "P1942",
+            "McCune-Reischauer romanization"
+        ],
+        [
+            "P1945",
+            "street key"
+        ],
+        [
+            "P1946",
+            "National Library of Ireland authority"
+        ],
+        [
+            "P1947",
+            "Mapillary ID"
+        ],
+        [
+            "P1948",
+            "BerlPap identifier"
+        ],
+        [
+            "P1949",
+            "CulturaItalia ID"
+        ],
+        [
+            "P1952",
+            "Encyclopaedia Metallum band ID"
+        ],
+        [
+            "P1953",
+            "Discogs artist ID"
+        ],
+        [
+            "P1954",
+            "Discogs master ID"
+        ],
+        [
+            "P1955",
+            "Discogs label ID"
+        ],
+        [
+            "P1956",
+            "takeoff and landing capability"
+        ],
+        [
+            "P1957",
+            "Wikisource index page"
+        ],
+        [
+            "P1958",
+            "Trismegistos Geo ID"
+        ],
+        [
+            "P1959",
+            "Dutch Senate person ID"
+        ],
+        [
+            "P1961",
+            "identifier of Comité des travaux historiques et scientifiques"
+        ],
+        [
+            "P1962",
+            "patron"
+        ],
+        [
+            "P1963",
+            "properties for this type"
+        ],
+        [
+            "P1964",
+            "sortkey"
+        ],
+        [
+            "P1967",
+            "BoxRec ID"
+        ],
+        [
+            "P1968",
+            "Foursquare venue ID"
+        ],
+        [
+            "P1969",
+            "MovieMeter director ID"
+        ],
+        [
+            "P1970",
+            "MovieMeter movie identifier"
+        ],
+        [
+            "P1972",
+            "Open Hub ID"
+        ],
+        [
+            "P1973",
+            "RSL editions"
+        ],
+        [
+            "P1976",
+            "INEGI locality identifier"
+        ],
+        [
+            "P1977",
+            "lesarchivesduspectacle ID"
+        ],
+        [
+            "P1978",
+            "USDA NDB number"
+        ],
+        [
+            "P1979",
+            "Righteous Among The Nations ID"
+        ],
+        [
+            "P1980",
+            "PolSys ID"
+        ],
+        [
+            "P1981",
+            "FSK film rating"
+        ],
+        [
+            "P1982",
+            "Anime News Network person ID"
+        ],
+        [
+            "P1983",
+            "Anime News Network company ID"
+        ],
+        [
+            "P1984",
+            "Anime News Network manga ID"
+        ],
+        [
+            "P1985",
+            "Anime News Network anime ID"
+        ],
+        [
+            "P1987",
+            "MCN code"
+        ],
+        [
+            "P1989",
+            "Encyclopaedia Metallum artist ID"
+        ],
+        [
+            "P1991",
+            "LPSN URL"
+        ],
+        [
+            "P1992",
+            "Plazi ID"
+        ],
+        [
+            "P1994",
+            "AllMusic composition ID"
+        ],
+        [
+            "P1996",
+            "parliament.uk bio link"
+        ],
+        [
+            "P1997",
+            "Facebook Places ID"
+        ],
+        [
+            "P1998",
+            "UCI code"
+        ],
+        [
+            "P2001",
+            "Revised Romanisation"
+        ],
+        [
+            "P2004",
+            "NALT id"
+        ],
+        [
+            "P2006",
+            "ZooBank author ID"
+        ],
+        [
+            "P2007",
+            "ZooBank publication ID"
+        ],
+        [
+            "P2008",
+            "IPNI publication ID"
+        ],
+        [
+            "P2009",
+            "Exif model"
+        ],
+        [
+            "P2010",
+            "Exif make"
+        ],
+        [
+            "P2011",
+            "Cooper-Hewitt Person ID"
+        ],
+        [
+            "P2012",
+            "cuisine"
+        ],
+        [
+            "P2014",
+            "MoMA artwork id"
+        ],
+        [
+            "P2015",
+            "Hansard ID"
+        ],
+        [
+            "P2016",
+            "Catalogus Professorum Academiae Groninganae id"
+        ],
+        [
+            "P2018",
+            "Teuchos ID"
+        ],
+        [
+            "P2019",
+            "AllMovie artist ID"
+        ],
+        [
+            "P2020",
+            "worldfootball.net ID"
+        ],
+        [
+            "P2021",
+            "Erdős number"
+        ],
+        [
+            "P2024",
+            "German cattle breed ID"
+        ],
+        [
+            "P2025",
+            "Find A Grave cemetery ID"
+        ],
+        [
+            "P2026",
+            "Avibase ID"
         ]
     ]
 }

@@ -6,7 +6,7 @@
 [ language, total, offset ]  = process.argv.slice(2)
 
 # total defauts to 1900 as it's the ceil of the current number of wikidata properties
-total or= 1900
+total or= 2050
 
 # limit is 50 as non-bot users can't request more than 50 entities at a time, ugly loop coming :/
 limit = 50

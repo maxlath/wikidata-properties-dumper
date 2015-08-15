@@ -2,48 +2,8 @@
     "language": "ru",
     "missing": [
         [
-            "P1856",
-            "Wikidata example media file"
-        ],
-        [
-            "P1858",
-            "Wikidata example string"
-        ],
-        [
-            "P1860",
-            "Wikidata example URL"
-        ],
-        [
-            "P1861",
-            "Wikidata example time"
-        ],
-        [
-            "P1862",
-            "Wikidata example quantity"
-        ],
-        [
-            "P1863",
-            "Wikidata example property"
-        ],
-        [
-            "P1864",
-            "Wikidata example monolingual text"
-        ],
-        [
-            "P1865",
-            "Wikidata example geographic coordinates"
-        ],
-        [
-            "P1866",
-            "catholic-hierarchy diocese ID"
-        ],
-        [
-            "P1867",
-            "eligible voters"
-        ],
-        [
-            "P1870",
-            "Name Assigning Authority Number"
+            "P2026",
+            "Avibase ID"
         ]
     ]
 }

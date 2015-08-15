@@ -6,48 +6,20 @@
             "GenLoc assembly"
         ],
         [
-            "P692",
-            "Gene Atlas Image"
-        ],
-        [
-            "P776",
-            "Swedish minor urban area code"
-        ],
-        [
             "P777",
             "Swedish civil parish code/ATA code"
         ],
         [
             "P778",
-            "Swedish code for parishes in the Church"
+            "Church of Sweden parish code"
         ],
         [
             "P779",
-            "Swedish Pastoratskod"
-        ],
-        [
-            "P783",
-            "hymenium type"
-        ],
-        [
-            "P784",
-            "mushroom cap shape"
+            "Church of Sweden Pastoratskod"
         ],
         [
             "P786",
             "stipe character"
-        ],
-        [
-            "P787",
-            "spore print color"
-        ],
-        [
-            "P788",
-            "mushroom ecological type"
-        ],
-        [
-            "P831",
-            "parent club"
         ],
         [
             "P847",
@@ -60,10 +32,6 @@
         [
             "P862",
             "Operational Requirement of the UK Air Ministry"
-        ],
-        [
-            "P875",
-            "UN code classification"
         ],
         [
             "P897",
@@ -90,24 +58,12 @@
             "IPTC Media Topic"
         ],
         [
-            "P1161",
-            "Z39.5 abbreviation"
-        ],
-        [
-            "P1199",
-            "mode of inheritance"
-        ],
-        [
             "P1248",
             "KulturNav-id"
         ],
         [
             "P1260",
             "Cultural heritage database in Sweden"
-        ],
-        [
-            "P1261",
-            "Rundata"
         ],
         [
             "P1262",
@@ -150,20 +106,8 @@
             "reporting mark"
         ],
         [
-            "P1537",
-            "contributing factor of"
-        ],
-        [
             "P1544",
             "Federal Register Document Number"
-        ],
-        [
-            "P1547",
-            "depends on"
-        ],
-        [
-            "P1548",
-            "maximum Strahler number"
         ],
         [
             "P1555",
@@ -218,16 +162,8 @@
             "operations and procedures key (OPS)"
         ],
         [
-            "P1692",
-            "ICD-9-CM"
-        ],
-        [
             "P1699",
             "SkyscraperPage building id"
-        ],
-        [
-            "P1707",
-            "DAAO identifier"
         ],
         [
             "P1736",
@@ -262,10 +198,6 @@
             "Watson & Dallwitz family ID"
         ],
         [
-            "P1762",
-            "Hornbostel-Sachs classification"
-        ],
-        [
             "P1763",
             "National Pipe Organ Register identifier"
         ],
@@ -282,24 +214,12 @@
             "Integrated Postsecondary Education Data System identifier"
         ],
         [
-            "P1775",
-            "follower of"
-        ],
-        [
             "P1776",
             "circle of"
         ],
         [
-            "P1777",
-            "manner of"
-        ],
-        [
             "P1778",
             "forgery after"
-        ],
-        [
-            "P1780",
-            "school of"
         ],
         [
             "P1787",
@@ -322,36 +242,12 @@
             "Danish National Filmography ID"
         ],
         [
-            "P1807",
-            "Great Aragonese Encyclopedia ID"
-        ],
-        [
-            "P1818",
-            "Kaiserhof ID"
-        ],
-        [
-            "P1819",
-            "genealogics.org personID"
-        ],
-        [
             "P1821",
             "Open Food Facts food category slug"
         ],
         [
-            "P1831",
-            "electorate"
-        ],
-        [
             "P1836",
             "draft pick number"
-        ],
-        [
-            "P1837",
-            "Gaoloumi ID"
-        ],
-        [
-            "P1838",
-            "PSS-archi ID"
         ],
         [
             "P1839",
@@ -370,10 +266,6 @@
             "anti-virus alias"
         ],
         [
-            "P1846",
-            "distribution map"
-        ],
-        [
             "P1847",
             "Nasjonalbiblioteket photographer ID"
         ],
@@ -390,68 +282,12 @@
             "SSR Name ID"
         ],
         [
-            "P1851",
-            "input set"
-        ],
-        [
             "P1852",
             "Perry Index"
         ],
         [
-            "P1854",
-            "Kiev street code"
-        ],
-        [
-            "P1855",
-            "Wikidata property example"
-        ],
-        [
-            "P1856",
-            "Wikidata example media file"
-        ],
-        [
-            "P1858",
-            "Wikidata example string"
-        ],
-        [
-            "P1859",
-            "Wikidata example item value"
-        ],
-        [
-            "P1860",
-            "Wikidata example URL"
-        ],
-        [
-            "P1861",
-            "Wikidata example time"
-        ],
-        [
-            "P1862",
-            "Wikidata example quantity"
-        ],
-        [
             "P1863",
             "Wikidata example property"
-        ],
-        [
-            "P1864",
-            "Wikidata example monolingual text"
-        ],
-        [
-            "P1865",
-            "Wikidata example geographic coordinates"
-        ],
-        [
-            "P1866",
-            "catholic-hierarchy diocese ID"
-        ],
-        [
-            "P1867",
-            "eligible voters"
-        ],
-        [
-            "P1868",
-            "ballots cast"
         ],
         [
             "P1869",
@@ -460,6 +296,142 @@
         [
             "P1870",
             "Name Assigning Authority Number"
+        ],
+        [
+            "P1871",
+            "CERL ID"
+        ],
+        [
+            "P1878",
+            "Vox-ATypI classification"
+        ],
+        [
+            "P1879",
+            "income classification (Philippines)"
+        ],
+        [
+            "P1883",
+            "Declarator.org ID"
+        ],
+        [
+            "P1887",
+            "vice-county"
+        ],
+        [
+            "P1888",
+            "Dictionary of Medieval Names from European Sources entry"
+        ],
+        [
+            "P1893",
+            "OpenPlaques plaque identifier"
+        ],
+        [
+            "P1894",
+            "Danish urban area code"
+        ],
+        [
+            "P1899",
+            "Librivox author ID"
+        ],
+        [
+            "P1905",
+            "FundRef registry name"
+        ],
+        [
+            "P1907",
+            "Australian Dictionary of Biography identifier"
+        ],
+        [
+            "P1908",
+            "Commonwealth War Graves Commission person identifier"
+        ],
+        [
+            "P1919",
+            "Ministry of Education of Chile school ID"
+        ],
+        [
+            "P1920",
+            "Commonwealth War Graves Commission burial ground identifier"
+        ],
+        [
+            "P1929",
+            "Clinvar Accession Number"
+        ],
+        [
+            "P1959",
+            "Dutch Senate person ID"
+        ],
+        [
+            "P1961",
+            "identifier of Comité des travaux historiques et scientifiques"
+        ],
+        [
+            "P1963",
+            "properties for this type"
+        ],
+        [
+            "P1968",
+            "Foursquare venue ID"
+        ],
+        [
+            "P1969",
+            "MovieMeter director ID"
+        ],
+        [
+            "P1976",
+            "INEGI locality identifier"
+        ],
+        [
+            "P1977",
+            "lesarchivesduspectacle ID"
+        ],
+        [
+            "P1980",
+            "PolSys ID"
+        ],
+        [
+            "P1982",
+            "Anime News Network person ID"
+        ],
+        [
+            "P1983",
+            "Anime News Network company ID"
+        ],
+        [
+            "P1984",
+            "Anime News Network manga ID"
+        ],
+        [
+            "P1985",
+            "Anime News Network anime ID"
+        ],
+        [
+            "P1994",
+            "AllMusic composition ID"
+        ],
+        [
+            "P1996",
+            "parliament.uk bio link"
+        ],
+        [
+            "P1998",
+            "UCI code"
+        ],
+        [
+            "P2011",
+            "Cooper-Hewitt Person ID"
+        ],
+        [
+            "P2014",
+            "MoMA artwork id"
+        ],
+        [
+            "P2015",
+            "Hansard ID"
+        ],
+        [
+            "P2016",
+            "Catalogus Professorum Academiae Groninganae id"
         ]
     ]
 }
