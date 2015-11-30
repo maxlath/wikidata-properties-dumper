@@ -65,7 +65,7 @@ npm install
 then just execute the script with the wished 2 letter language code as first argument (e.g. here `fr` for French):
 
 ```bash
-./wikidata-properties-dumper.js fr
+node ./wikidata-properties-dumper.js fr
 ```
 
 and you're done! JSON files are waiting for you in the `output` folder:
