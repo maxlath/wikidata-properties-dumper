@@ -7,15 +7,11 @@
         ],
         [
             "P1578",
-            "Gmelin Number"
+            "Gmelin number"
         ],
         [
             "P1579",
             "Beilstein Registry Number"
-        ],
-        [
-            "P1580",
-            "University of Barcelona authority ID"
         ],
         [
             "P1583",
@@ -28,14 +24,6 @@
         [
             "P1588",
             "Desa code of Indonesia"
-        ],
-        [
-            "P1599",
-            "Cambridge Alumni Database ID"
-        ],
-        [
-            "P1602",
-            "BBC Your Paintings venue identifier"
         ],
         [
             "P1607",
@@ -58,20 +46,12 @@
             "BBC Things identifer"
         ],
         [
-            "P1642",
-            "acquisition transaction"
-        ],
-        [
             "P1643",
             "departure transaction"
         ],
         [
             "P1648",
             "Dictionary of Welsh Biography ID"
-        ],
-        [
-            "P1649",
-            "Korean Movie Database ID"
         ],
         [
             "P1650",
@@ -106,10 +86,6 @@
             "ATCvet"
         ],
         [
-            "P1669",
-            "CONA  identifier"
-        ],
-        [
             "P1673",
             "general formula"
         ],
@@ -132,10 +108,6 @@
         [
             "P1678",
             "has vertex figure"
-        ],
-        [
-            "P1679",
-            "BBC Your Paintings artwork identifier"
         ],
         [
             "P1688",
@@ -166,16 +138,8 @@
             "Sächsische Biografie"
         ],
         [
-            "P1729",
-            "AllMusic album ID"
-        ],
-        [
             "P1730",
             "AllMusic song ID"
-        ],
-        [
-            "P1731",
-            "Fach"
         ],
         [
             "P1732",
@@ -230,14 +194,6 @@
             "Maltese Islands National Inventory of Cultural Property identifier"
         ],
         [
-            "P1825",
-            "Baseball-Reference.com major league player ID"
-        ],
-        [
-            "P1826",
-            "Baseball-Reference.com minor league player ID"
-        ],
-        [
             "P1836",
             "draft pick number"
         ],
@@ -252,10 +208,6 @@
         [
             "P1842",
             "Global Anabaptist Mennonite Encyclopedia Online identifier"
-        ],
-        [
-            "P1844",
-            "HathiTrust id"
         ],
         [
             "P1845",
@@ -286,20 +238,8 @@
             "Wikidata example time"
         ],
         [
-            "P1862",
-            "Wikidata example quantity"
-        ],
-        [
             "P1863",
-            "Wikidata example property"
-        ],
-        [
-            "P1864",
-            "Wikidata example monolingual text"
-        ],
-        [
-            "P1869",
-            "Hall of Valor ID"
+            "Wikidata example property value"
         ],
         [
             "P1870",
@@ -328,10 +268,6 @@
         [
             "P1888",
             "Dictionary of Medieval Names from European Sources entry"
-        ],
-        [
-            "P1894",
-            "Danish urban area code"
         ],
         [
             "P1901",
@@ -382,28 +318,12 @@
             "Commonwealth War Graves Commission burial ground identifier"
         ],
         [
-            "P1921",
-            "URI pattern for RDF resource"
-        ],
-        [
             "P1928",
             "Vaccine Ontology ID"
         ],
         [
             "P1929",
             "Clinvar Accession Number"
-        ],
-        [
-            "P1932",
-            "stated as"
-        ],
-        [
-            "P1943",
-            "location map"
-        ],
-        [
-            "P1944",
-            "relief location map"
         ],
         [
             "P1947",
@@ -416,10 +336,6 @@
         [
             "P1951",
             "investor"
-        ],
-        [
-            "P1952",
-            "Encyclopaedia Metallum band ID"
         ],
         [
             "P1956",
@@ -438,12 +354,252 @@
             "FSK film rating"
         ],
         [
-            "P2009",
-            "Exif model"
+            "P2098",
+            "substitute/deputy/replacement of office/officeholder"
         ],
         [
-            "P2010",
-            "Exif make"
+            "P2106",
+            "RXNO Ontology"
+        ],
+        [
+            "P2109",
+            "power output"
+        ],
+        [
+            "P2129",
+            "IDLH"
+        ],
+        [
+            "P2133",
+            "total debt"
+        ],
+        [
+            "P2134",
+            "total reserves"
+        ],
+        [
+            "P2135",
+            "total exports"
+        ],
+        [
+            "P2136",
+            "total imports"
+        ],
+        [
+            "P2137",
+            "total equity"
+        ],
+        [
+            "P2138",
+            "total liabilities"
+        ],
+        [
+            "P2140",
+            "foreign direct investment, net outflows"
+        ],
+        [
+            "P2142",
+            "box office"
+        ],
+        [
+            "P2143",
+            "genome size"
+        ],
+        [
+            "P2145",
+            "explosive energy equivalent"
+        ],
+        [
+            "P2150",
+            "FSB speed"
+        ],
+        [
+            "P2153",
+            "PubChem Substance ID"
+        ],
+        [
+            "P2155",
+            "Solid solution series with"
+        ],
+        [
+            "P2156",
+            "Pseudo crystal habit"
+        ],
+        [
+            "P2157",
+            "lithography"
+        ],
+        [
+            "P2158",
+            "Cell line ontology ID"
+        ],
+        [
+            "P2161",
+            "Guthrie code"
+        ],
+        [
+            "P2164",
+            "SIGIC (person)"
+        ],
+        [
+            "P2165",
+            "SIGIC (group)"
+        ],
+        [
+            "P2166",
+            "SIGIC (institution)"
+        ],
+        [
+            "P2167",
+            "United Nations Standard Products and Services Code"
+        ],
+        [
+            "P2169",
+            "PublicWhip identifier"
+        ],
+        [
+            "P2170",
+            "Hansard (currents session) identifier"
+        ],
+        [
+            "P2171",
+            "They Work for You identifier"
+        ],
+        [
+            "P2172",
+            "Parliamentary record identifier"
+        ],
+        [
+            "P2179",
+            "ACM Classification Code (2012)"
+        ],
+        [
+            "P2180",
+            "Kansallisbiografia ID"
+        ],
+        [
+            "P2187",
+            "BiblioNet publication identifier"
+        ],
+        [
+            "P2188",
+            "BiblioNet author identifier"
+        ],
+        [
+            "P2189",
+            "BiblioNet publisher identifier"
+        ],
+        [
+            "P2190",
+            "C-SPAN identifier of a person"
+        ],
+        [
+            "P2198",
+            "average gradient"
+        ],
+        [
+            "P2204",
+            "minimum explosive concentration"
+        ],
+        [
+            "P2206",
+            "Discogs release ID"
+        ],
+        [
+            "P2208",
+            "average shot length"
+        ],
+        [
+            "P2220",
+            "household wealth"
+        ],
+        [
+            "P2228",
+            "maximum thrust"
+        ],
+        [
+            "P2232",
+            "cash"
+        ],
+        [
+            "P2235",
+            "external superproperty"
+        ],
+        [
+            "P2236",
+            "external subproperty"
+        ],
+        [
+            "P2271",
+            "Wikidata property sample"
+        ],
+        [
+            "P2285",
+            "periapsis date"
+        ],
+        [
+            "P2298",
+            "NSDAP membership number (1925–1945)"
+        ],
+        [
+            "P2303",
+            "exception to constraint"
+        ],
+        [
+            "P2304",
+            "group by"
+        ],
+        [
+            "P2305",
+            "item"
+        ],
+        [
+            "P2307",
+            "namespace"
+        ],
+        [
+            "P2308",
+            "class"
+        ],
+        [
+            "P2309",
+            "relation"
+        ],
+        [
+            "P2310",
+            "min date"
+        ],
+        [
+            "P2311",
+            "max date"
+        ],
+        [
+            "P2312",
+            "max quantity"
+        ],
+        [
+            "P2313",
+            "min quantity"
+        ],
+        [
+            "P2315",
+            "comment"
+        ],
+        [
+            "P2316",
+            "constraint status"
+        ],
+        [
+            "P2322",
+            "article ID"
+        ],
+        [
+            "P2323",
+            "Swedish Olympic Committee athlete ID"
+        ],
+        [
+            "P2326",
+            "GNS Unique Feature Identifier"
         ]
     ]
 }
