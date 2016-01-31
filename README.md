@@ -19,11 +19,11 @@ It looks like this:
     ...
 ```
 
-Dumps
+Properties dumps
 -------
-[de](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/properties/de.json) -
-[en](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/properties/en.json) -
-[fr](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/properties/fr.json)
+* [Deutsch](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/properties/de.json)
+* [English](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/properties/en.json)
+* [French](https://raw.githubusercontent.com/maxlath/wikidata-properties-dumper/master/properties/fr.json)
 
 How To dump Properties for other languages
 -------
