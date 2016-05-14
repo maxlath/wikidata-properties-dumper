@@ -8,13 +8,16 @@ saveResults = require './save_results'
 require 'colors'
 # console.log 'queries', queries
 
-query = (id)-> "http://quarry.wmflabs.org/run/#{id}/output/1/json"
+# To find the query id, look at the query page's download link
+# ex: https://quarry.wmflabs.org/query/7150
+query = (id, output)->
+  "https://quarry.wmflabs.org/run/#{id}/output/#{output}/json"
 
 promises = {}
 
 for lang, queryData of queries
-  { json } = queryData
-  url = query json
+  { json, output } = queryData
+  url = query json, output
   console.log "#{lang} data:".grey, url
   promises[lang] = get url
 
