@@ -1,6 +1,14 @@
 wikidata-properties-dumper
 ==========================
 
+**UPDATE**: this repository was hosting [experimentations](http://stackoverflow.com/a/25745689/3324977) at getting a list of all Wikidata properties as JSON before Wikidata SPARQL endpoint was up. Now that it's there, we can do better!
+
+* get the full list straight from Wikidata Query ([try the query](https://query.wikidata.org/#SELECT%20%3Fproperty%20%3FpropertyLabel%20WHERE%20%7B%0A%20%20%20%20%3Fproperty%20a%20wikibase%3AProperty%20.%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%20%7D%0A%20%7D%0A%0ALIMIT%205), [get it as JSON](https://query.wikidata.org/sparql?format=json&query=SELECT%20%3Fproperty%20%3FpropertyLabel%20WHERE%20%7B%0A%20%20%20%20%3Fproperty%20a%20wikibase%3AProperty%20.%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%20%7D%0A%20%7D%0A%0A))
+
+* or, for a pre-formatted version, use the [`wd props`](https://github.com/maxlath/wikidata-cli#wd-props) command from [Wikidata CLI](https://github.com/maxlath/wikidata-cli).
+
+<hr>
+
 There are now more than 2400 property ids on wikidata (less active ones though), but no handy standard json version of those, so I made one by hand, per language.
 You can find `en`, `de`, `fr`, `es` and `it` versions already in the `./output` folder.
 
