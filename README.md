@@ -5,7 +5,10 @@ wikidata-properties-dumper
 
 * get the full list straight from Wikidata Query ([try the query](https://query.wikidata.org/#SELECT%20%3Fproperty%20%3FpropertyLabel%20WHERE%20%7B%0A%20%20%20%20%3Fproperty%20a%20wikibase%3AProperty%20.%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%20%7D%0A%20%7D%0A%0ALIMIT%205), [get it as JSON](https://query.wikidata.org/sparql?format=json&query=SELECT%20%3Fproperty%20%3FpropertyLabel%20WHERE%20%7B%0A%20%20%20%20%3Fproperty%20a%20wikibase%3AProperty%20.%0A%20%20%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%0A%20%20%20%7D%0A%20%7D%0A%0A))
 
-* or, for a pre-formatted version, use the [`wd props`](https://github.com/maxlath/wikidata-cli#wd-props) command from [Wikidata CLI](https://github.com/maxlath/wikidata-cli).
+* or, for a pre-formatted version:
+  * use the [`wd props`](https://github.com/maxlath/wikidata-cli#wd-props) command from [Wikidata CLI](https://github.com/maxlath/wikidata-cli)
+  * use [that dump of `wd props --type`](https://github.com/maxlath/wikidata-edit/blob/master/lib/properties/properties.js)
+  * use [Wikidata Propbrowse](https://tools.wmflabs.org/hay/propbrowse/) and its [JSON dump](https://tools.wmflabs.org/hay/propbrowse/props.json)
 
 <hr>
 
